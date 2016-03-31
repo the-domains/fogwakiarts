@@ -1,0 +1,28 @@
+name: fogwakiarts
+favicon: null
+layout_spectrum: 0.20229823142290115
+typography_spectrum: 0.40290674404241145
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.2176459189504385
+  lightness: 0.0898821228183806
+  saturation: 0.49292055959813297
+  rhythmicContrast: 0.3709162331651896
+purpose: []
